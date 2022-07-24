@@ -1,0 +1,58 @@
+{
+   "products": [
+        {
+            "id":1,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        },
+        {
+            "id":2,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        },
+        {
+            "id":3,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        },
+        {
+            "id":4,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        },
+        {
+            "id":5,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        },
+        {
+            "id":5,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        },
+        {
+            "id":5,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        },
+        {
+            "id":5,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        },
+        {
+            "id":5,
+            "name":"Samsung galaxy m13",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UmYpvsaLPxDroLRJWorVw6MonqjxFONtOAQpVnoaXYIaMyvSi0vXjblz3p22f57QDjM&usqp=CAU",
+            "price":1799
+        }
+    ]
+}

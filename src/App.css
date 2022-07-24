@@ -1,0 +1,46 @@
+.nav{
+  background-color: black;
+  height:100px;
+  position: sticky;
+}
+.row
+{
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.card
+{
+  box-shadow: 2px 2px 2px;
+}
+.col
+{
+  margin-top: 30px;
+}
+.span
+{
+  margin-bottom: 30px;
+  margin-right: 20px;
+  background-color: red;
+  border-radius: 9px;
+  width: 20px;
+  height: 23px;
+  padding:-2px ;
+  color:white;
+}
+.price
+{
+  margin-left: 1200px;
+  margin-top: -10px;
+  width:150px;
+  border-radius: 50px;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+body,html{
+  background-color: gray;
+}
+.button
+{
+  background-color: red;
+}
